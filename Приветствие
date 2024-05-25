@@ -8,5 +8,6 @@ int main()
     cout << "Введите ваше имя: ";
     getline(cin, name);
     cout << "Привет, " << name << "!" << endl;
+    cout << "Привет, " << name << "!" << endl;
     return 0;
 }
